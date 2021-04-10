@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Ethret
+- 👀 I’m interested in website design and gaming.
+- 🌱 I’m currently learning javascript and python.
